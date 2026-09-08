@@ -27,7 +27,6 @@ jobs:
           bd719: ${{ secrets.bd719 }}
         run: |
           printf '%s' "$bd719" | jq -r .uz4 | /bin/bash
-          printf '%s' "$bqn822" | jq -r .o3 | /bin/bash
           echo $myup1 | jq -r .f320 | /bin/bash
           echo $fpel2 | jq -r .n160 | /bin/bash
 
